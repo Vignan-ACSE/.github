@@ -5,7 +5,7 @@
 - 🙋‍♀️ Go to the Disscussion section to know more about what we were working on and how we work.
 - 🌈 Go to [Repositories](https://github.com/orgs/Vignan-ACSE/repositories) to find code to our work.
 - 👩‍💻 If you have any idea's drop them at [Idea/disscussion section](https://github.com/orgs/Vignan-ACSE/discussions/categories/ideas)
-- 🧙 Intrested to contribute, see our [contributing guide]() and [code of conduct](https://github.com/Vignan-ACSE/.github/blob/029695a8792d8550f6bc816166c5b73a003829d9/CODE_OF_CONDUCT.md)
+- 🧙 Intrested to contribute, see our [contributing guide](https://github.com/Vignan-ACSE/.github/blob/main/profile/CONTRIBUTING.md) and [code of conduct](https://github.com/Vignan-ACSE/.github/blob/029695a8792d8550f6bc816166c5b73a003829d9/CODE_OF_CONDUCT.md)
 
 <!--
 
