@@ -179,7 +179,7 @@ If you are reading this, bravo dear user and (hopefully) contributor for making 
 
 To confirm that you have read this guide and are following it as best as possible, **include this emoji at the top** of your issue or pull request: :black_heart: `:black_heart:`
 
-## :pray: Credits
+## Credits
 
 Written by [@PranithChowdary](https://github.com/PranithChowdary). 
 
